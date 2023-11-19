@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>In Memoriam</title>
+</head>
+<body>
+  <header>
+    <h1> Em Memória</h1>
+  </header>
+  <main>
+    <article>
+      <h2>Por Redação</h2>
+      <p>
+        <img src="imagem.jpg" alt="Imagem do incêndio">
+        Normalmente, eu não trago assuntos muito tristes para
+        vocês, leitores, mas eu resolvi abrir uma exceção para
+        esse caso. É com grande pesar que fazemos um ano de
+        aniversário desde o incêndio na fábrica têxtil da cidade
+        no dia 19 de novembro de 2022.
+      </p>
+      <p>
+        Foi um período difícil,
+        onde muitos de nossa cidade ficaram com o coração na
+        mão enquanto a fábrica ficava em chamas e os bombeiros
+        tentavam tirar as crianças dos escombros.
+      </p>
+      <p>
+        Foi um grande infortúnio. Naquele fatídico dia, uma escola
+        primária estava visitando a fábrica para aprender sobre
+        a indústria da cidade. O incêndio, com origem ainda
+        desconhecida, se alastrou por toda a fábrica e começou
+        a derrubar a estrutura. Muitas pessoas ficaram presas
+        nos escombros e não sobreviveram. Algumas delas eram
+        crianças. Foi um momento terrível. Uma perda enorme para todos.
+      </p>
+      <p>
+        Pedimos que todos se juntem em uma oração coletiva
+        nessa quarta-feira de noite, lá na praça da cidade. Vamos
+        orar pelas almas dessas pessoas e pela coragem daqueles
+        que ficaram aqui. Amém.
+      </p>
+      <p class="comentarios">
+        <strong>32 comentários</strong>
+        <a href="#">Subscrever</a>
+      </p>
+    </article>
+  </main>
+</body>
+</html>
+
